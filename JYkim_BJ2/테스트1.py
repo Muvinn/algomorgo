@@ -34,4 +34,4 @@ for t in range(T):
         numList.append(n)
     
 print(sum(numList))
-ㄴㄴ
+ㄴㄴd
